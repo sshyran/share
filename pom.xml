@@ -54,7 +54,7 @@
         <dependency.alfresco-repository.version>7.28</dependency.alfresco-repository.version>
         <dependency.alfresco-jlan.version>6.2</dependency.alfresco-jlan.version>
         <dependency.alfresco-core.version>6.15</dependency.alfresco-core.version>
-        <dependency.webscripts.version>6.20</dependency.webscripts.version>
+        <dependency.webscripts.version>7.3-SNAPSHOT</dependency.webscripts.version>
         <dependency.surf.version>6.15</dependency.surf.version>
         <dependency.alfresco-sdk.version>2.0.0</dependency.alfresco-sdk.version>
         <dependency.dom4j.version>2.1.1</dependency.dom4j.version>
@@ -70,7 +70,7 @@
 
         <tomcat.default.alfresco.port>8080</tomcat.default.alfresco.port>
         <tomcat.default.alfresco.ssl.port>8443</tomcat.default.alfresco.ssl.port>
-        <tomcat.default.share.port>8081</tomcat.default.share.port>
+        <tomcat.default.share.port>8181</tomcat.default.share.port>
         <tomcat.default.share.ssl.port>0</tomcat.default.share.ssl.port>
         <tomcat.default.solr.port>8082</tomcat.default.solr.port>
         <tomcat.default.solr.ssl.port>8445</tomcat.default.solr.ssl.port>
